@@ -18,7 +18,7 @@ Here are some of my statistics:
 
 ## GitHub Stats
 
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucasCF11&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucascf11&show_icons=true&count_private=true&theme=radical)
 
 ## Most Used Languages
 
