@@ -18,11 +18,10 @@ Here are some of my statistics:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lucascf11&show_icons=true&count_private=true&theme=radical)
-
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCF11&layout=compact&theme=dark)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascf11&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascf11&theme=radical" />
+</p>
 
 ---
 
