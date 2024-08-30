@@ -29,9 +29,8 @@ Here are some of my statistics:
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Typst](https://img.shields.io/badge/-Typst-black?style=flat-square&logo=typst)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=mathworks)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
