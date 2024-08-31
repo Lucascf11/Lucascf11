@@ -19,8 +19,8 @@ Here are some of my statistics:
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascf11&show_icons=true&count_private=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascf11&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasCf11&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCF11&layout=compact&theme=radical" />
 </p>
 
 ---
